@@ -43,10 +43,10 @@ This repository is part of an ongoing course project for the **"Fundamentals of 
 
 ## Contributors
 
-* \[Manish Kumar]
+* \Manish Kumar
 
 ## Instructor
 
 * Course: Fundamentals of Data Science and Machine Intelligence
-* Instructor: \[Prof. Rajesh M. Hegde]
-* Institution: \[IIT Kanpur]
+* Instructor: \Prof. Rajesh M. Hegde
+* Institution: \IIT Kanpur
